@@ -128,8 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-/src/_core-js-promises-tasks.js
-/src/__core-js-promises-tasks.js
-/.editorconfig
-/package-lock.json
